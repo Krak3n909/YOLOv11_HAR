@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 19
+names: ['boxing', 'clapping', 'dancing', 'drinking', 'eating', 'exercise', 'calling', 'cycling', 'fighting', 'hugging', 'laughing', 'listening_to_music', 'running', 'sitting', 'texting', 'shooting', 'sleeping', 'swimming', 'using_laptop']
